@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Adrian Muniz 👋
 
-- 🔭 Atualmente trabalho com Java
 - 🌱 Estudando Java POO, Front-End, Banco de dados e DevOps
 - 👯 Contate-me no email: adrianmuniz.ceo@outlook.com
 - 😄 Pronouns: ele/dele
