@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Adrian Muniz 👋
 
 - 🌱 Estudando Java POO, Front-End, Banco de dados e DevOps
-- 👯 Contate-me no email: adrianmuniz.ceo@outlook.com
+- 👯 Contate-me no email: cainaadrianmunizdasilva@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
