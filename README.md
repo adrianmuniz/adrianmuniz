@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adrian Muniz 👋
 
-- 🌱 Estudando Java POO, Front-End, Banco de dados e DevOps
+- 🌱 Desenvolvedor backend Java, SpringBoot, PL/SQL, JavaScript e Bootstrap.
 - 👯 Contate-me no email: cainaadrianmunizdasilva@gmail.com
 - 😄 Pronouns: ele/dele
 
