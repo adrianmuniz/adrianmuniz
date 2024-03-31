@@ -2,7 +2,6 @@
 
 - 🌱 Desenvolvedor backend Java, SpringBoot, PL/SQL, JavaScript e Bootstrap.
 - 👯 Contate-me no email: cainaadrianmunizdasilva@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/adrianmuniz">
