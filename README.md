@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Adrian Muniz 👋
 
-- 🌱 Desenvolvedor backend Java, SpringBoot, PL/SQL, JavaScript e Bootstrap.
-- 👯 Contate-me no email: cainaadrianmunizdasilva@gmail.com
+-  Desenvolvedor Java Pleno Especialista em Microserviços
+-  Contate-me no email: cainaadrianmunizdasilva@gmail.com
 
 <div>
   <a href="https://github.com/adrianmuniz">
@@ -15,10 +15,8 @@
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
     <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
   
   ##
