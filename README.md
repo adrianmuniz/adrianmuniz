@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cainã Muniz 👋
 
-Formado em Tecnologia da Informação em 2020, Desenvolvedor Java desde 2021 e Especialista em Microserviços em 2024
+Formado em Tecnologia da Informação em 2020, Desenvolvedor Java desde 2021 e Especialista em Microserviços em 2024.
 
 <div>
   <a href="https://github.com/adrianmuniz">
