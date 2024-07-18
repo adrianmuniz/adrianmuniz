@@ -1,7 +1,6 @@
-### Olá! Eu sou o Adrian Muniz 👋
+### Olá! Eu sou o Cainã Muniz 👋
 
--  Desenvolvedor Java Pleno Especialista em Microserviços
--  Contate-me no email: cainaadrianmunizdasilva@gmail.com
+Formado em Tecnologia da Informação em 2020, Desenvolvedor Java desde 2021 e Especialista em Microserviços em 2024
 
 <div>
   <a href="https://github.com/adrianmuniz">
