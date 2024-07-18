@@ -12,10 +12,10 @@ Formado em Tecnologia da Informação em 2020, Desenvolvedor Java desde 2021 e E
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
-    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg">
+    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
     <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
